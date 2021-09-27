@@ -1,6 +1,4 @@
-# CodeYourFuture Node Challenges
-
-Node Challanges created for Students at CodeYourFuture.
+# Node Challenges
 
 ## Contribution Guide
 
@@ -15,3 +13,7 @@ A good challenge consists of
 - Is targeted to beginner developers
 
 Everyone is welcome to raise a Pull Request on this repository - please share with volunteers and/or students before merging.
+
+## Credit
+
+All credit to (CodeYourFuture)[https://codeyourfuture.io/]
