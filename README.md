@@ -16,4 +16,4 @@ Everyone is welcome to raise a Pull Request on this repository - please share wi
 
 ## Credit
 
-All credit to (CodeYourFuture)[https://codeyourfuture.io/]
+All credit to [CodeYourFuture](https://codeyourfuture.io/)
