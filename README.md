@@ -14,6 +14,12 @@ A good challenge consists of
 
 Everyone is welcome to raise a Pull Request on this repository - please share with volunteers and/or students before merging.
 
+## Difficulty
+
+Of this set of challenges, the simplest is the Quote Sever and the most complex is the Chat Server. 
+
+The others are all of medium diffuculty.
+
 ## Credit
 
 All credit to [CodeYourFuture](https://codeyourfuture.io/)
