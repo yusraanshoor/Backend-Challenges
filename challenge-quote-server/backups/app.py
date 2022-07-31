@@ -18,6 +18,15 @@ def index():
 def get_quotes():
     return jsonify(quotes)
 
+@app.route('/quotes/search', methods=['GET'])
+def get_searched_quotes():
+    search_word = request.args.get('term')
+    return jsonify(search_quotes_using_search_word (search_word))
+
+def search_quotes_using_search_word (search_word):
+    search_results = [quote for quote in quotes if search_word.lower() in quote[ "quote"].lower()]
+    return search_results
+
 @app.route('/quotes/random', methods = ['GET'])
 def get_random_quote():
     return jsonify(pick_from_list(quotes))
